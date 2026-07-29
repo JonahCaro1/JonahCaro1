@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonah-caro-8a8485228/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jonahcaro15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/JonahCaro1/JonahCaro1)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/jonah-caro)
 
 **Computer Science** · Marist University (2023)  
 Networking · Computer Hardware · Cybersecurity · Software Development
@@ -50,9 +50,9 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 
 ---
 
-## Tools & technologies
+## Tools & Technologies
 
-**Networking & infrastructure**
+**Networking & Infrastructure**
 
 ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -68,7 +68,7 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat-square&logoColor=white)
 
-**Languages & development**
+**Languages & Development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
