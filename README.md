@@ -92,21 +92,21 @@ Template badges — keep only what you’ve used in a lab, course, or project.
 ### Industry Certifications
 | Certification | Issuer | Status | Credential |
 |---------------|--------|--------|------------|
-| CompTIA A+ | CompTIA | Placeholder — hardware / IT fundamentals | [Verify](#) |
-| CompTIA Network+ | CompTIA | Placeholder | [Verify](#) |
-| CompTIA Security+ | CompTIA | Placeholder | [Verify](#) |
-| Cisco _(e.g. CCNA / CyberOps)_ | Cisco | Placeholder — add exact title | [Verify](#) |
-| CDSA | Hack The Box | Placeholder | [Verify](#) |
-| CCD | Hack The Box | Placeholder | [Verify](#) |
+| CompTIA A+ | CompTIA | Actively Studying | [N/A](#) |
+| CompTIA Network+ | CompTIA | Not Started | [N/A(#) |
+| CompTIA Security+ | CompTIA | Actively Studying | [N/A](#) |
+| Cisco CCNA | Cisco | Not Started | [N/A](#) |
+| Microsoft AZ-900 | Microsoft | Actively Studying | [N/A](#) |
+| CCD | Hack The Box | Not Started | [N/A](#) |
 
 ### Professional Certificates & Coursework
 | Program | Provider | Focus | Status |
 |---------|----------|-------|--------|
-| _(Networking / Cisco program)_ | Cisco / Coursera | Networking | Placeholder |
-| _(Cybersecurity professional certificate)_ | Coursera | Security | Placeholder |
-| _(Programming / software certificate)_ | Coursera | Coding | Placeholder |
-| _(Additional coding course)_ | Coursera / other | Coding | Placeholder |
-| _(Hardware / IT support program)_ | Coursera / other | Hardware / IT | Placeholder |
+| Junior Cybersecurity Analyst | Cisco | Cybersecurity | Completed |
+| Python For Everybody | University of Michigan | Coding | In Progress |
+| Microsoft Azure Fundamentals | Microsoft | Cloud | In Progress |
+| Cybersecurity Analyst | IBM | Cybersecurity | Not Started |
+| Full Stack Software Developer | IBM | Coding | Not Started |
 
 ---
 
