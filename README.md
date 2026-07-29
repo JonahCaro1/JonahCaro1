@@ -26,8 +26,6 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 
 ## Featured projects
 
-Quick links — details live in each repo or write-up. Replace `#` when ready.
-
 | Project | Focus | Links |
 |---------|-------|-------|
 | **Homelab Network & Hardware** | UniFi topology, VLANs, lab server builds | [Page](#) · [Repo](#) |
@@ -50,13 +48,9 @@ Quick links — details live in each repo or write-up. Replace `#` when ready.
 | **Systems** | Linux, Docker, Proxmox, documentation-as-you-build |
 | **Endpoint (familiar)** | Defender for Endpoint concepts · Velociraptor (lab / coursework) |
 
-*Edit as your hands-on depth grows — prefer skills you can show in a project or cert.*
-
 ---
 
 ## Tools & technologies
-
-Template badges — keep only what you’ve used in a lab, course, or project.
 
 **Networking & infrastructure**
 
@@ -74,7 +68,7 @@ Template badges — keep only what you’ve used in a lab, course, or project.
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat-square&logoColor=white)
 
-**Languages & development** _(update to match your coursework)_
+**Languages & development**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -93,7 +87,7 @@ Template badges — keep only what you’ve used in a lab, course, or project.
 | Certification | Issuer | Status | Credential |
 |---------------|--------|--------|------------|
 | CompTIA A+ | CompTIA | Actively Studying | [N/A](#) |
-| CompTIA Network+ | CompTIA | Not Started | [N/A(#) |
+| CompTIA Network+ | CompTIA | Not Started | [N/A](#) |
 | CompTIA Security+ | CompTIA | Actively Studying | [N/A](#) |
 | Cisco CCNA | Cisco | Not Started | [N/A](#) |
 | Microsoft AZ-900 | Microsoft | Actively Studying | [N/A](#) |
@@ -131,7 +125,3 @@ Interested in opportunities across **Networking**, **Systems / IT**, **Cybersecu
 | **GitHub** | [github.com/JonahCaro1](https://github.com/JonahCaro1) |
 
 ---
-
-<sub>Profile README template — replace every <code>YOUR_*</code>, <code>#</code> link, and “Placeholder” row as items are completed. Delete this footnote when the page is live.</sub>
-Uploading README.md…]()
-
