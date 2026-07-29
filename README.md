@@ -102,7 +102,7 @@ Template badges — keep only what you’ve used in a lab, course, or project.
 ### Professional Certificates & Coursework
 | Program | Provider | Focus | Status |
 |---------|----------|-------|--------|
-| Junior Cybersecurity Analyst | Cisco | Cybersecurity | Completed |
+| Junior Cybersecurity Analyst | Cisco | Cybersecurity | [Completed](https://www.credly.com/badges/664abb04-337c-42c7-82f4-d2351448613c/public_url) |
 | Python For Everybody | University of Michigan | Coding | In Progress |
 | Microsoft Azure Fundamentals | Microsoft | Cloud | In Progress |
 | Cybersecurity Analyst | IBM | Cybersecurity | Not Started |
