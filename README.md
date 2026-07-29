@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonah-caro-8a8485228/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jonahcaro15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white)](https://JonahCaro1.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/JonahCaro1/JonahCaro1)
 
 **Computer Science** · Marist University (2023)  
 Networking · Computer Hardware · Cybersecurity · Software Development
