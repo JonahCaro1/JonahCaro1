@@ -5,24 +5,22 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white)](https://JonahCaro1.github.io)
 
 **Computer Science** · Marist University (2023)  
-Networking · Computer hardware · Cybersecurity · Software development
-
-Hands-on technologist who likes building real systems — from racking and cabling to VLANs and firewalls, security labs, and writing code. Formerly a collegiate Esports coach, with strong communication, documentation, and composure under pressure.
+Networking · Computer Hardware · Cybersecurity · Software Development
 
 ---
 
 ## About
 
-I enjoy working across the stack that makes modern IT run:
+Actively seeking to transition my career into IT or cybersecurity. I enjoy configuring and troubleshooting computer systems and network hardware. 
 
-- **Networking** — designing and documenting segmented networks, routing/firewall policy, and troubleshooting traffic
-- **Computer hardware** — building, upgrading, and maintaining PCs and lab servers (compute, storage, GPU passthrough)
-- **Cybersecurity** — detection labs, log analysis, and defense-in-depth on infrastructure I operate myself
-- **Coding** — writing scripts and applications; actively completing professional certificates and coursework to deepen software skills
+- **Networking** — Designing and documenting segmented networks, configuring firewall policies, and troubleshooting network issues.
+- **Computer Hardware** — Building, upgrading, and maintaining PCs and homelab servers.
+- **Cybersecurity** — Configuring detection labs, log analysis, and implementing defense-in-depth on infrastructure I operate myself.
+- **Coding** — Writing scripts and applications; actively completing professional certificates and coursework to deepen software skills.
 
-**Currently building:** a UniFi + Proxmox homelab (security lab + self-hosted services) while studying programming through courses and professional certificates.
+**Currently Working On:** UniFi + Proxmox homelab (security lab + self-hosted services) | Studying cybersecurity, networking and software development through courses and professional certificates.
 
-**Open to:** junior roles in networking, IT/systems, cybersecurity (including Tier 1 SOC), and software/development where I can keep learning on the job.
+**Open to:** Entry level roles in networking, IT/systems, cybersecurity (including Tier 1 SOC), and software development where I can continue to learn on the job.
 
 ---
 
@@ -43,7 +41,7 @@ Quick links — details live in each repo or write-up. Replace `#` when ready.
 
 ## Skills
 
-| Area | Examples |
+| Area | Focus |
 |------|----------|
 | **Networking** | VLANs, firewall policy, switching, VPN access, packet analysis, UniFi |
 | **Computer hardware** | PC / server builds, lab hardware planning, storage, GPU passthrough concepts |
@@ -124,7 +122,7 @@ _Add internship, help desk, IT support, networking, development, or lab assistan
 
 ## Contact
 
-Interested in opportunities across **networking**, **Systems / IT**, **Cybersecurity**, and **Software Development**.
+Interested in opportunities across **Networking**, **Systems / IT**, **Cybersecurity**, and **Software Development**.
 
 | | |
 |---|---|
