@@ -1,10 +1,12 @@
 # Jonah Caro
 
-<p>
-  <a href="https://www.linkedin.com/in/jonah-caro-8a8485228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:jonahcaro15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.credly.com/users/jonah-caro"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/jonah-caro-8a8485228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
+    <td><a href="mailto:jonahcaro15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a></td>
+    <td><a href="https://www.credly.com/users/jonah-caro"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a></td>
+  </tr>
+</table>
 
 **Computer Science** · Marist University (2023)  
 Networking · Computer Hardware · Cybersecurity · Software Development
