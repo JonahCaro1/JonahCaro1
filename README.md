@@ -60,27 +60,39 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 
 **Networking & Infrastructure**
 
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logoColor=white" alt="UniFi" /></td>
+    <td><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" /></td>
+    <td><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /></td>
+    <td><img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logoColor=white" alt="Proxmox" /></td>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></td>
+  </tr>
+</table>
 
 **Security**
 
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-1B4F72?style=flat-square&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=flat-square&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white" alt="Suricata" /></td>
+    <td><img src="https://img.shields.io/badge/Zeek-1B4F72?style=flat-square&logoColor=white" alt="Zeek" /></td>
+    <td><img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" alt="Elastic" /></td>
+    <td><img src="https://img.shields.io/badge/Wazuh-000000?style=flat-square&logoColor=white" alt="Wazuh" /></td>
+  </tr>
+</table>
 
 **Languages & Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></td>
+  </tr>
+</table>
 
 ---
 
