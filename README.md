@@ -26,15 +26,16 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 
 ## Featured projects
 
-| Project | Focus | Links |
-|---------|-------|-------|
-| **Homelab Network & Hardware** | UniFi topology, VLANs, lab server builds | [Page](#) · [Repo](#) |
-| **Homelab SOC Architecture** | SIEM, NSM, VLANs, Zone Based Firewall | [Page](#) · [Repo](#) |
-| **Homelab Proxmox Architecture** | Media, Game Servers, Service Monitoring, VPN, DNS | [Page](#) · [Repo](#) |
-| **Vulnerability Management** | OpenVAS, CVSS Scoring, Risk Reporting | [Repo](#) · [Demo](#) |
-| **SIEM + Threat Detection Lab** | SIEM, Log Analysis, Sysmon, Splunk/Elastic | [N/A](#) |
-| **Malware Analysis & Threat Report** | Wireshark, IOC Extraction | [Repo](#) |
-| **Security Automation Tool** | Python, REST APIs, JSON Parsing | [Repo](#) |
+| Project | Focus | Links | Status |
+|---------|-------|-------|-------|
+| **Homelab Network & Hardware** | UniFi topology, VLANs, lab server builds | [Page](#) · [Repo](#) | In Progress |
+| **Homelab SOC Architecture** | SIEM, NSM, VLANs, Zone Based Firewall | [Page](#) · [Repo](#) | In Progress |
+| **Homelab Proxmox Architecture** | Media, Game Servers, Service Monitoring, VPN, DNS | [Page](#) · [Repo](#) | In Progress |
+| **Vulnerability Management Lab** | OpenVAS, CVSS Scoring, Risk Reporting | [Repo](#) · [Demo](#) | In Progress |
+| **SIEM + Threat Detection Dashboard** | SIEM, Log Analysis, Sysmon, Splunk/Elastic | [N/A](#) | In Progress |
+| **Malware Analysis & Threat Reporting Lab** | Wireshark, IOC Extraction | [Repo](#) | In Progress |
+| **Security Automation Tool** | Python, REST APIs, JSON Parsing | [Repo](#) | Not Started |
+| **AI Security System** | NVRs, LLMs | [Repo](#) | Not Started |
 
 ---
 
@@ -107,11 +108,10 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 
 ## Experience Highlights
 
-**Collegiate Esports Coach** — Marist University *(dates placeholder)*  
-Led players in a competitive, high-communication environment. Transferable strengths: clear handoffs, written procedures, and steady decisions under time pressure.
+WIP
 
 **Additional roles**  
-_Add internship, help desk, IT support, networking, development, or lab assistant experience here._
+WIP
 
 ---
 
@@ -121,7 +121,7 @@ Interested in opportunities across **Networking**, **Systems / IT**, **Cybersecu
 
 | | |
 |---|---|
-| **LinkedIn** | [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/jonah-caro-8a8485228/) |
+| **LinkedIn** | [Jonah-Caro](https://www.linkedin.com/in/jonah-caro-8a8485228/) |
 | **Email** | [JonahCaro15@gmail.com](mailto:jonahcaro15@gmail.com) |
 | **GitHub** | [github.com/JonahCaro1](https://github.com/JonahCaro1) |
 
