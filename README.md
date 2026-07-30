@@ -29,11 +29,12 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 | Project | Focus | Links |
 |---------|-------|-------|
 | **Homelab Network & Hardware** | UniFi topology, VLANs, lab server builds | [Page](#) · [Repo](#) |
-| **Homelab SOC Architecture** | Segmented detection lab (SIEM, NSM, trust model) | [Page](#) · [Repo](#) |
-| **Homelab Services Host** | Media, game servers, observability | [Page](#) · [Repo](#) |
-| **Software / scripting** | _(app, automation, or course capstone)_ | [Repo](#) · [Demo](#) |
-| **Detection Lab** | SIEM, log analysis, attack detection | [Repo](#) |
-| **SOC Automation Lab** | SOAR, case management, response workflows | [Repo](#) |
+| **Homelab SOC Architecture** | SIEM, NSM, VLANs, Zone Based Firewall | [Page](#) · [Repo](#) |
+| **Homelab Proxmox Architecture** | Media, Game Servers, Service Monitoring, VPN, DNS | [Page](#) · [Repo](#) |
+| **Vulnerability Management** | OpenVAS, CVSS Scoring, Risk Reporting | [Repo](#) · [Demo](#) |
+| **SIEM + Threat Detection Lab** | SIEM, Log Analysis, Sysmon, Splunk/Elastic | [N/A](#) |
+| **Malware Analysis & Threat Report** | Wireshark, IOC Extraction | [Repo](#) |
+| **Security Automation Tool** | Python, REST APIs, JSON Parsing | [Repo](#) |
 
 ---
 
