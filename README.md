@@ -42,12 +42,12 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 
 | Area | Focus |
 |------|----------|
-| **Networking** | VLANs, firewall policy, switching, VPN access, packet analysis, UniFi |
-| **Computer hardware** | PC / server builds, lab hardware planning, storage, GPU passthrough concepts |
+| **Networking** | VLANs, firewall policy, switching, VPN access, packet analysis |
+| **Computer hardware** | PC / server builds, lab hardware planning, storage, troubleshooting |
 | **Cybersecurity** | SIEM labs, IDS/NSM concepts, segmentation, alert triage, ATT&CK familiarity |
-| **Programming** | _(e.g. Python, JavaScript/TypeScript, Java — list what you use)_ · scripting & automation |
-| **Systems** | Linux, Docker, Proxmox, documentation-as-you-build |
-| **Endpoint (familiar)** | Defender for Endpoint concepts · Velociraptor (lab / coursework) |
+| **Programming** | Python, Java, JavaScript, C++, Bash |
+| **Systems** | Linux, Docker, Proxmox, Windows |
+| **Endpoint** | Defender for Endpoint concepts · Velociraptor (lab / coursework) |
 
 ---
 
