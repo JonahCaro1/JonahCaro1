@@ -36,7 +36,7 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 | **Homelab SOC Architecture** | SIEM, NSM, VLANs, Zone Based Firewall | [Web Page](https://jonahcaro1.github.io/Networking-and-Homelabs/) | In Progress |
 | **Homelab Proxmox Architecture** | Media, Game Servers, Service Monitoring, VPN, DNS | [Web Page](https://jonahcaro1.github.io/Networking-and-Homelabs/homelab.html) | In Progress |
 | **Vulnerability Management Lab** | OpenVAS, CVSS Scoring, Risk Reporting | [N/A] | In Progress |
-| **SIEM + Threat Detection Dashboard** | SIEM, Log Analysis, Sysmon, Splunk/Elastic | [N/A](#) | In Progress |
+| **SOC Detection** | SIEM, ELK Stack, Wazuh, Zeek, Suricata, Log Analysis | [Project Repo](https://github.com/JonahCaro1/Homelab-SOC-Detection) | In Progress |
 | **Malware Analysis & Threat Reporting Lab** | Wireshark, IOC Extraction | [N/A](#) | In Progress |
 | **Security Automation Tool** | Python, REST APIs, JSON Parsing | [N/A](#) | Not Started |
 | **AI Security System** | NVRs, LLMs | [N/A](#) | Not Started |
