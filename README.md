@@ -102,13 +102,13 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 **Bachelor of Science, Computer Science** — Marist University · 2023
 
 ### Industry Certifications
-| Certification | Issuer | Status | Credential |
+| Certification | Issuer | Status | Credential Verification |
 |---------------|--------|--------|------------|
 | CompTIA A+ | CompTIA | Actively Studying | [N/A](#) |
 | CompTIA Network+ | CompTIA | Not Started | [N/A](#) |
 | CompTIA Security+ | CompTIA | Actively Studying | [N/A](#) |
 | Cisco CCNA | Cisco | Not Started | [N/A](#) |
-| Microsoft AZ-900 | Microsoft | Actively Studying | [N/A](#) |
+| Microsoft Azure Fundamentals (AZ-900) | Microsoft | Completed | [Credential](https://learn.microsoft.com/api/credentials/share/en-us/JonahCaro-4234/F45585233551B66E?sharingId=38E99799A6C2C066) |
 | CCD | Hack The Box | Not Started | [N/A](#) |
 
 ### Professional Certificates & Coursework
