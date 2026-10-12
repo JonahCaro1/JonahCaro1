@@ -11,24 +11,22 @@
 **Computer Science** · Marist University (2023)  
 Networking · Computer Hardware · Cybersecurity · Software Development
 
----
 
 ## About
 
 Actively seeking to transition my career into IT or cybersecurity. I enjoy configuring and troubleshooting computer systems and network hardware. 
 
-- **Networking** — Designing and documenting segmented networks, configuring firewall policies, and troubleshooting network issues.
-- **Computer Hardware** — Building, upgrading, and maintaining PCs and homelab servers.
-- **Cybersecurity** — Configuring detection labs, log analysis, and implementing defense-in-depth on infrastructure I operate myself.
-- **Coding** — Writing scripts and applications; actively completing professional certificates and coursework to deepen software skills.
+- **Networking:** Designing and documenting segmented networks, configuring firewall policies, and troubleshooting network issues.
+- **Computer Hardware:** Building, upgrading, and maintaining PCs and homelab servers.
+- **Cybersecurity:** Configuring detection labs, log analysis, and implementing defense-in-depth on infrastructure I operate myself.
+- **Coding:** Writing scripts and applications; actively completing professional certificates and coursework to deepen software skills.
 
-**Currently Working On:** UniFi + Proxmox homelab (security lab + self-hosted services) | Studying cybersecurity, networking and software development through courses and professional certificates.
+Currently studying cybersecurity, networking and software development through online courses and professional certificates.
 
-**Open to:** Entry level roles in networking, IT/systems, cybersecurity (including Tier 1 SOC), and software development where I can continue to learn on the job.
+**Open To:** Entry level roles in networking, IT/systems, cybersecurity (including Tier 1 SOC), and software development where I can continue to learn on the job.
 
----
 
-## Featured projects
+# Featured Projects
 
 | Project | Focus | Links | Status |
 |---------|-------|-------|-------|
@@ -41,9 +39,8 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 | **Security Automation Tool** | Python, REST APIs, JSON Parsing | [N/A](#) | Not Started |
 | **AI Security System** | NVRs, LLMs | [N/A](#) | Not Started |
 
----
 
-## Skills
+# Skills
 
 | Area | Focus |
 |------|----------|
@@ -52,11 +49,10 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 | **Cybersecurity** | SIEM labs, IDS/NSM concepts, segmentation, alert triage, ATT&CK familiarity |
 | **Programming** | Python, Java, JavaScript, C++, Bash |
 | **Systems** | Linux, Docker, Proxmox, Windows |
-| **Endpoint** | Defender for Endpoint concepts · Velociraptor (lab / coursework) |
 
----
 
-## Tools & Technologies
+
+# Tools & Technologies
 
 **Networking & Infrastructure**
 
@@ -94,31 +90,25 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
   </tr>
 </table>
 
----
 
-## Education & Certifications
+# Education & Certifications
 
 ### Degree
-**Bachelor of Science, Computer Science** — Marist University · 2023
 
-### Industry Certifications
+Bachelor of Science, Computer Science · Marist University · 2023
+
+### Certifications
 | Certification | Issuer | Status | Credential Verification |
 |---------------|--------|--------|------------|
-| CompTIA A+ | CompTIA | Actively Studying | [N/A](#) |
-| CompTIA Network+ | CompTIA | Not Started | [N/A](#) |
-| CompTIA Security+ | CompTIA | Actively Studying | [N/A](#) |
-| Cisco CCNA | Cisco | Not Started | [N/A](#) |
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft | Completed | [Credential](https://learn.microsoft.com/api/credentials/share/en-us/JonahCaro-4234/F45585233551B66E?sharingId=38E99799A6C2C066) |
-| CCD | Hack The Box | Not Started | [N/A](#) |
+| CompTIA A+ | CompTIA | Actively Studying | [N/A](#) |
+| CompTIA Security+ | CompTIA | Actively Studying | [N/A](#) |
 
 ### Professional Certificates & Coursework
 | Program | Provider | Focus | Status |
 |---------|----------|-------|--------|
 | Junior Cybersecurity Analyst | Cisco | Cybersecurity | [Completed](https://www.credly.com/badges/664abb04-337c-42c7-82f4-d2351448613c/public_url) |
-| Python For Everybody | University of Michigan | Coding | In Progress |
-| Microsoft Azure Fundamentals | Microsoft | Cloud | In Progress |
-| Cybersecurity Analyst | IBM | Cybersecurity | Not Started |
-| Full Stack Software Developer | IBM | Coding | Not Started |
+| Google Cybersecurity Professional | Google | Cybersecurity | In Progress |
 
 ---
 
@@ -126,8 +116,8 @@ Actively seeking to transition my career into IT or cybersecurity. I enjoy confi
 
 WIP
 
-**Additional roles**  
-WIP
+**Additional Roles**  
+
 
 ---
 
@@ -139,6 +129,5 @@ Interested in opportunities across **Networking**, **Systems / IT**, **Cybersecu
 |---|---|
 | **LinkedIn** | [Jonah-Caro](https://www.linkedin.com/in/jonah-caro-8a8485228/) |
 | **Email** | [JonahCaro15@gmail.com](mailto:jonahcaro15@gmail.com) |
-| **GitHub** | [github.com/JonahCaro1](https://github.com/JonahCaro1) |
 
 ---
