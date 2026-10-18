@@ -12,16 +12,14 @@
 Networking · Computer Hardware · Cybersecurity · Software Development
 
 
-## About
+## About Me
 
-Actively seeking to transition my career into IT or cybersecurity. I enjoy configuring and troubleshooting computer systems and network hardware. 
+Actively seeking to transition my career into IT, networking or cybersecurity. I enjoy configuring and troubleshooting computer systems and network hardware. Currently studying cybersecurity, networking and software development through online courses and professional certificates.
 
 - **Networking:** Designing and documenting segmented networks, configuring firewall policies, and troubleshooting network issues.
 - **Computer Hardware:** Building, upgrading, and maintaining PCs and homelab servers.
-- **Cybersecurity:** Configuring detection labs, log analysis, and implementing defense-in-depth on infrastructure I operate myself.
-- **Coding:** Writing scripts and applications; actively completing professional certificates and coursework to deepen software skills.
-
-Currently studying cybersecurity, networking and software development through online courses and professional certificates.
+- **Cybersecurity:** Configuring SOC & malware analysis labs, performing alert log analysis.
+- **Coding:** Writing scripts and applications, actively completing professional certificates and coursework to deepen software development skills.
 
 **Open To:** Entry level roles in networking, IT/systems, cybersecurity (including Tier 1 SOC), and software development where I can continue to learn on the job.
 
@@ -33,11 +31,11 @@ Currently studying cybersecurity, networking and software development through on
 | **Homelab Network & Hardware** | UniFi topology, VLANs, lab server builds | [N/A] | In Progress |
 | **Homelab SOC Architecture** | SIEM, NSM, VLANs, Zone Based Firewall | [Web Page](https://jonahcaro1.github.io/Networking-and-Homelabs/) | In Progress |
 | **Homelab Proxmox Architecture** | Media, Game Servers, Service Monitoring, VPN, DNS | [Web Page](https://jonahcaro1.github.io/Networking-and-Homelabs/homelab.html) | In Progress |
-| **Vulnerability Management** | OpenVAS, OWASP ZAP, DefectDojo, CVE/CVSS Scoring, Vulnerability Mitigation | [Project Repo](https://github.com/JonahCaro1/Vulnerability-Management) | Completed |
 | **SOC Detection** | SIEM, ELK Stack, Wazuh, Zeek, Suricata, Log Analysis | [Project Repo](https://github.com/JonahCaro1/Homelab-SOC-Detection) | Completed |
-| **Malware Analysis & Threat Reporting Lab** | Wireshark, IOC Extraction | [N/A](#) | In Progress |
+| **Vulnerability Management** | OpenVAS, OWASP ZAP, DefectDojo, CVE/CVSS Scoring, Vulnerability Mitigation | [Project Repo](https://github.com/JonahCaro1/Vulnerability-Management) | Completed |
+| **Malware Analysis** | REMnux, FlareVM, Wireshark, Procmon, dnSpy, de4dot | [N/A](#) | In Progress |
 | **Security Automation Tool** | Python, REST APIs, JSON Parsing | [N/A](#) | Not Started |
-| **AI Security System** | NVRs, LLMs | [N/A](#) | Not Started |
+| **AI Security System** | NVRs, LLMs | [N/A](#) | In Progress |
 
 
 # Skills
@@ -109,25 +107,3 @@ Bachelor of Science, Computer Science · Marist University · 2023
 |---------|----------|-------|--------|
 | Junior Cybersecurity Analyst | Cisco | Cybersecurity | [Completed](https://www.credly.com/badges/664abb04-337c-42c7-82f4-d2351448613c/public_url) |
 | Google Cybersecurity Professional | Google | Cybersecurity | In Progress |
-
----
-
-## Experience Highlights
-
-WIP
-
-**Additional Roles**  
-
-
----
-
-## Contact
-
-Interested in opportunities across **Networking**, **Systems / IT**, **Cybersecurity**, and **Software Development**.
-
-| | |
-|---|---|
-| **LinkedIn** | [Jonah-Caro](https://www.linkedin.com/in/jonah-caro-8a8485228/) |
-| **Email** | [JonahCaro15@gmail.com](mailto:jonahcaro15@gmail.com) |
-
----
