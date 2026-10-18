@@ -28,7 +28,7 @@ Actively seeking to transition my career into IT, networking or cybersecurity. I
 
 | Project | Focus | Links | Status |
 |---------|-------|-------|-------|
-| **Homelab Network & Architecture** | Network Topology, VLANs, Firewall Rules, Hardware, Cybersecurity & Personal Lab Server Builds | [Webpage](#) | Completed |
+| **Homelab Network & Architecture** | Network Topology, VLANs, Firewall Rules, Hardware, Cybersecurity & Personal Lab Server Builds | [Webpage](https://jonahcaro1.github.io/Networking-and-Homelabs/) | Completed |
 | **SOC Detection** | SIEM, ELK Stack, Wazuh, Zeek, Suricata, Log Analysis | [Project Repo](https://github.com/JonahCaro1/Homelab-SOC-Detection) | Completed |
 | **Vulnerability Management** | OpenVAS, OWASP ZAP, DefectDojo, CVE/CVSS Scoring, Vulnerability Mitigation | [Project Repo](https://github.com/JonahCaro1/Vulnerability-Management) | Completed |
 | **Malware Analysis** | REMnux, FlareVM, Wireshark, Procmon, dnSpy, de4dot | [N/A](#) | In Progress |
