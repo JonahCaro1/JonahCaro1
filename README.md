@@ -28,9 +28,7 @@ Actively seeking to transition my career into IT, networking or cybersecurity. I
 
 | Project | Focus | Links | Status |
 |---------|-------|-------|-------|
-| **Homelab Network & Hardware** | UniFi topology, VLANs, lab server builds | [N/A] | In Progress |
-| **Homelab SOC Architecture** | SIEM, NSM, VLANs, Zone Based Firewall | [Web Page](https://jonahcaro1.github.io/Networking-and-Homelabs/) | In Progress |
-| **Homelab Proxmox Architecture** | Media, Game Servers, Service Monitoring, VPN, DNS | [Web Page](https://jonahcaro1.github.io/Networking-and-Homelabs/homelab.html) | In Progress |
+| **Homelab Network & Architecture** | Network Topology, VLANs, Firewall Rules, Hardware, Cybersecurity & Personal Lab Server Builds | [Webpage](#) | Completed |
 | **SOC Detection** | SIEM, ELK Stack, Wazuh, Zeek, Suricata, Log Analysis | [Project Repo](https://github.com/JonahCaro1/Homelab-SOC-Detection) | Completed |
 | **Vulnerability Management** | OpenVAS, OWASP ZAP, DefectDojo, CVE/CVSS Scoring, Vulnerability Mitigation | [Project Repo](https://github.com/JonahCaro1/Vulnerability-Management) | Completed |
 | **Malware Analysis** | REMnux, FlareVM, Wireshark, Procmon, dnSpy, de4dot | [N/A](#) | In Progress |
