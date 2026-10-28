@@ -32,6 +32,7 @@ Actively seeking to transition my career into IT, networking or cybersecurity. I
 | **SOC Detection** | SIEM, ELK Stack, Wazuh, Zeek, Suricata, Log Analysis | [Project Repo](https://github.com/JonahCaro1/Homelab-SOC-Detection) | Completed |
 | **Vulnerability Management** | OpenVAS, OWASP ZAP, DefectDojo, CVE/CVSS Scoring, Vulnerability Mitigation | [Project Repo](https://github.com/JonahCaro1/Vulnerability-Management) | Completed |
 | **Malware Analysis** | REMnux, FlareVM, Wireshark, Procmon, dnSpy, de4dot | [Project Repo](https://github.com/JonahCaro1/Malware-Analysis) | Completed |
+| **Windows Active Directory** | Windows AD, Splunk, Sysmon | [N/A](#) | In Progress |
 | **Security Automation Tool** | Python, REST APIs, JSON Parsing | [N/A](#) | Not Started |
 | **AI Security System** | NVRs, LLMs | [N/A](#) | In Progress |
 
